@@ -1,5 +1,5 @@
-import 'package:chatgpt/screens/welcome/welcome_screen.dart';
-import 'package:chatgpt/theme.dart';
+import 'package:flutter_gpt/screens/welcome/welcome_screen.dart';
+import 'package:flutter_gpt/theme.dart';
 import 'package:flutter/material.dart';
 
 void main() {

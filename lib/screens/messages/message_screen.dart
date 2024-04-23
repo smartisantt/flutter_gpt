@@ -1,5 +1,5 @@
-import 'package:chatgpt/constants.dart';
-import 'package:chatgpt/screens/messages/components/body.dart';
+import 'package:flutter_gpt/constants.dart';
+import 'package:flutter_gpt/screens/messages/components/body.dart';
 import 'package:flutter/material.dart';
 
 class MessagesScreen extends StatelessWidget {

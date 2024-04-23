@@ -1,4 +1,4 @@
-import 'package:chatgpt/constants.dart';
+import 'package:flutter_gpt/constants.dart';
 import 'package:flutter/material.dart';
 
 import '../signInOrSignUp/signin_or_signup.dart';

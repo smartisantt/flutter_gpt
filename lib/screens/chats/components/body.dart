@@ -1,7 +1,7 @@
-import 'package:chatgpt/components/filled_outline_button.dart';
-import 'package:chatgpt/constants.dart';
-import 'package:chatgpt/models/chat_model.dart';
-import 'package:chatgpt/screens/messages/message_screen.dart';
+import 'package:flutter_gpt/components/filled_outline_button.dart';
+import 'package:flutter_gpt/constants.dart';
+import 'package:flutter_gpt/models/chat_model.dart';
+import 'package:flutter_gpt/screens/messages/message_screen.dart';
 import 'package:flutter/material.dart';
 
 import 'chat_card.dart';

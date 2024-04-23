@@ -1,6 +1,6 @@
-import 'package:chatgpt/constants.dart';
-import 'package:chatgpt/models/chat_message_model.dart';
-import 'package:chatgpt/screens/messages/components/message.dart';
+import 'package:flutter_gpt/constants.dart';
+import 'package:flutter_gpt/models/chat_message_model.dart';
+import 'package:flutter_gpt/screens/messages/components/message.dart';
 import 'package:flutter/material.dart';
 
 import 'chat_input_fields.dart';

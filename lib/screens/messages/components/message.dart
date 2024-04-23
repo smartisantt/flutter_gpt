@@ -1,4 +1,4 @@
-import 'package:chatgpt/screens/messages/components/text_message.dart';
+import 'package:flutter_gpt/screens/messages/components/text_message.dart';
 import 'package:flutter/material.dart';
 
 import '../../../constants.dart';
